@@ -116,12 +116,6 @@ python main.py
 
 ---
 
-##  Screenshots (Add Later)
-
-*Add detection output screenshots here*
-
----
-
 ##  Contributing
 
 Contributions are welcome! Feel free to fork and improve the project.
