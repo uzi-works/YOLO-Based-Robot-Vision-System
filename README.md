@@ -70,7 +70,7 @@ vision-system/
 
 ### 1️ Clone the repository
 
-git clone https://github.com/yourusername/vision-system.git
+git clone https://github.com/uzi-works/YOLO-Based-Robot-Vision-System
 cd vision-system
 
 ### 2️ Install dependencies
