@@ -1,18 +1,18 @@
-# 🤖 YOLO-Based Robot Vision System
+#  YOLO-Based Robot Vision System
 
-## 📌 Overview
+##  Overview
 
 The YOLO-Based Robot Vision System is a real-time computer vision application that captures live video from a camera, detects objects using a YOLO-based detection model, and triggers decision-making logic for robotic actions. The system integrates OpenCV for video processing and a modular architecture for detection and robot control.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Robotic systems require real-time perception of their surroundings to make intelligent decisions. Traditional systems lack efficient and fast object detection capabilities needed for dynamic environments.
 
 ---
 
-## 💡 Solution
+##  Solution
 
 This project uses:
 
@@ -24,18 +24,18 @@ to simulate an intelligent vision system for robotics.
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-* 📷 Real-time video capture using camera
-* 🎯 Object detection using YOLO model
-* 🤖 Automated decision-making logic
-* ⏯️ Camera control (Start / Pause / Quit)
-* 🪟 Resizable and interactive display window
-* ⚡ Fast and efficient processing
+*  Real-time video capture using camera
+*  Object detection using YOLO model
+*  Automated decision-making logic
+*  Camera control (Start / Pause / Quit)
+*  Resizable and interactive display window
+*  Fast and efficient processing
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Programming Language:** Python
 * **Computer Vision:** OpenCV
@@ -44,7 +44,7 @@ to simulate an intelligent vision system for robotics.
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Camera captures live video frames
 2. YOLO model detects objects in each frame
@@ -54,7 +54,7 @@ to simulate an intelligent vision system for robotics.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 vision-system/
 │
@@ -66,24 +66,24 @@ vision-system/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 git clone https://github.com/yourusername/vision-system.git
 cd vision-system
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 pip install opencv-python
 
-### 3️⃣ Run the application
+### 3️ Run the application
 
 python main.py
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 * **P** → Pause camera
 * **S** → Start/Resume camera
@@ -91,7 +91,7 @@ python main.py
 
 ---
 
-## 📊 Output
+##  Output
 
 * Real-time object detection displayed on screen
 * Bounding boxes and labels for detected objects
@@ -99,14 +99,14 @@ python main.py
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 * Model files (YOLO weights) are not included due to size limitations
 * Ensure correct camera index (e.g., 0 or 1) depending on your system
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Integrate hardware robot control
 * Improve detection accuracy with custom-trained models
@@ -116,25 +116,25 @@ python main.py
 
 ---
 
-## 📸 Screenshots (Add Later)
+##  Screenshots (Add Later)
 
 *Add detection output screenshots here*
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork and improve the project.
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Uzair Sabir**
 B.Tech CSE | AI Enthusiast
